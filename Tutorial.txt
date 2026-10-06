@@ -1,0 +1,90 @@
+Hey everyone! :D
+
+As many of you already know, due to the large number of users, the YouTube Music Player download servers may occasionally become unstable.
+
+In some cases, the servers are working properly, but long videos or audio files may still fail during the download process.
+
+This guide will show you how to manually add any audio or video to the YouTube Music Player without relying on the built-in downloader. 🎵🎬
+
+📂 Folder Locations
+
+Inside your exploit folder (Delta, Arceus X, etc.), navigate to:
+
+Workspace ➜ YouTube Music Player
+
+Inside this folder, you will find three directories:
+
+• Musics → Stores YouTube music files 🎵
+
+• Videos → Stores YouTube video files 🎬
+
+• Local Audios → Stores custom audio files that are not from YouTube 🔊
+
+━━━━━━━━━━━━━━
+
+🎵 How to Add YouTube Music or Videos
+
+✅ Step 1
+
+Copy the YouTube video or music link and open the following website:
+
+https://en1.y2mate.is/3yR/youtube-to-mp3.html
+
+✅ Step 2
+
+Paste the YouTube link into the website and select the desired format:
+
+• MP3 = Music 🎵
+• MP4 = Video 🎬
+
+Then, download the file.
+
+✅ Step 3
+
+Move the downloaded file to the appropriate folder:
+
+• MP3 ➜ Musics
+• MP4 ➜ Videos
+
+✅ Step 4
+
+Rename the file using the YouTube video ID.
+
+Example:
+
+YouTube link:
+https://youtu.be/60ItHLz5WEA
+
+The video ID is:
+60ItHLz5WEA
+
+The file names should be:
+
+🎵 Music:
+60ItHLz5WEA.mp3
+
+🎬 Video:
+60ItHLz5WEA.webm
+
+⚠️ The YouTube ID is required so the script can correctly identify and load the media.
+
+━━━━━━━━━━━━━━
+
+🔊 How to Add Local Audio
+
+For Local Audios, the process is even simpler:
+
+• Move any MP3 file into the Local Audios folder.
+
+• A YouTube ID is not required.
+
+• The file can have any name.
+
+Example:
+Cool Song.mp3
+
+━━━━━━━━━━━━━━
+
+✅ That's it!
+
+You can now add any music, video, or custom audio to the YouTube Music Player without depending on the download servers. 😉
